@@ -1,1 +1,1 @@
-# Master-Code
+# Master-Code - простий редактор коду
